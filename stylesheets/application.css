@@ -3690,13 +3690,13 @@ tbody.collapse.in {
     font-size: 34px;
   }
 }
-.jumbotron .img-logo {
+.jumbotron .img-logo { 
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
   width: 100px;
   height: auto;
-  margin-top: 100px;
+  margin-top: 70px;
   margin-bottom: 20px;
 }
 @media screen and (max-width: 800px) {
