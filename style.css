@@ -312,7 +312,7 @@ table.bordered tbody tr:last-child td:last-child {
 }
 
 .gray {
-	color: #8b95a4;
+	color: #ffffff;
 	font-size: 18px;
 }
 
@@ -342,11 +342,11 @@ ul.nav li a {
 }
 
 ul.nav li a.active {
-	color: #a45f93;
+	color: #ffffff;
 }
 
 ul.nav li a:hover {
-	color: #a45f93;
+	color: #ffffff;
 }
 /*Контент*/
 .content {
@@ -354,8 +354,8 @@ ul.nav li a:hover {
 	border-radius: 3px;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
-	border: 1px solid #67707d;
-	background-color: #475363;
+	border: 1px solid #ffffff;
+	background-color: #ffffff;
 	background-color: rgba(87,103,127,0.5);
 	overflow: hidden;
 }
