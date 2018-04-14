@@ -291,12 +291,12 @@ table.bordered tbody tr:last-child td:last-child {
 	text-decoration: none;
 	font-size: 24px;
 	text-shadow: 0 1px 0 white;
-	color: #373e47;
+	color: #000000;
 	padding-left: 10px;
 }
 
 .logo a:hover {
-	color: #a45f93;
+	color: #ffffff;
 }
 
 *:first-child+html .logo a {
@@ -304,7 +304,7 @@ table.bordered tbody tr:last-child td:last-child {
 }
 
 .pink {
-	color: #a45f93;
+	color: #ffffff;
 }
 
 .logo a:hover .pink {
